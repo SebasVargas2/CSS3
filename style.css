@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#titulo {
+    padding-top: 20px;
+}
+h2 {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    width: 50%;
+    margin: auto;
+}
+
+.images {
+
+    width: 50%;
+    margin: auto;
+}
+
+#boton {
+    text-align: center;
+    border: 1px solid orangered;
+    background-color: rgb(216, 216, 8);
+    width: 36%;
+    margin: auto;
+    font-size: 25px;
+    padding: 20px;
+}
+
+#image2 {
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#texto {
+    font-size: 12px;
+    text-align: center;
+}
